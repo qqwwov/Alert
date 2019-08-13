@@ -1,2 +1,3 @@
-﻿AAPL,201,Buy,AAPL,300,Sell
+﻿Ticker,Target,Flag,Ticker,Target,Flag
+AAPL,201,Buy,AAPL,300,Sell
 SPY,270,Buy,SPY,300,Sell
