@@ -1,11 +1,12 @@
+Ticker,Target,Flag,Ticker,Target,Flag
 A,65.83,Buy,AA,19.49,Sell
-AAL,27.10,Buy,CMI,151.80,Sell
+AAL,27.1,Buy,CMI,151.8,Sell
 AAP,139.14,Buy,CSX,67.15,Sell
-ADM,36.66,Buy,DLTR,92.40,Sell
+ADM,36.66,Buy,DLTR,92.4,Sell
 ALXN,105.65,Buy,GE,9.22,Sell
 AMZN,"1,759.75",Buy,GT,12.34,Sell
 APH,84.59,Buy,IP,40.36,Sell
-AZO,"1,055.09",Buy,JNJ,133.70,Sell
+AZO,"1,055.09",Buy,JNJ,133.7,Sell
 BA,327.58,Buy,MO,46.74,Sell
 BHP,48.84,Buy,NSC,178.84,Sell
 BLK,409.78,Buy,NCLH,50.45,Sell
@@ -27,7 +28,7 @@ FTV,68.14,Buy,,,
 GILD,62.83,Buy,,,
 GLW,27.18,Buy,,,
 HAL,18.68,Buy,,,
-HMC,23.50,Buy,,,
+HMC,23.5,Buy,,,
 HOG,32.55,Buy,,,
 HON,163.04,Buy,,,
 HPQ,18.62,Buy,,,
@@ -46,8 +47,8 @@ PCAR,63.56,Buy,,,
 PEP,126.98,Buy,,,
 PYPL,100.91,Buy,,,
 RGR,40.75,Buy,,,
-ROP,348.30,Buy,,,
-SAP,117.40,Buy,,,
+ROP,348.3,Buy,,,
+SAP,117.4,Buy,,,
 TAP,51.28,Buy,,,
 TGT,80.38,Buy,,,
 TMO,268.29,Buy,,,
